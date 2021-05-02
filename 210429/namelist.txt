@@ -22,4 +22,6 @@ Yuta Nakajima
 Kentaro Ohara
 Keigo Takashima
 Kaiun Omura
+Hiroki Hatanaka
 Taichi Uragami
+
