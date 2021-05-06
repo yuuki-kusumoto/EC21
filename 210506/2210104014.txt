@@ -1,0 +1,117 @@
+Thu May 06 13:14:42 JST 2021
+Problem: BitCount{}
+seed:1620274482635 turbo:false memory:false
+Operators:
+OnePointCrossover{CROSSOVER_RATE:0.6}
+BitMutation{MUTATION_RATE:0.01}
+RouletteSelection{}
+Elitism{IS_ELITISM:true}
+population size:100 chromosome length:10
+---------begin---------
+generation:1 maxFitness:9.0
+generation:2 maxFitness:9.0
+generation:3 maxFitness:10.0
+generation:4 maxFitness:10.0
+generation:5 maxFitness:10.0
+generation:6 maxFitness:10.0
+generation:7 maxFitness:10.0
+generation:8 maxFitness:10.0
+generation:9 maxFitness:10.0
+generation:10 maxFitness:10.0
+generation:11 maxFitness:10.0
+generation:12 maxFitness:10.0
+generation:13 maxFitness:10.0
+generation:14 maxFitness:10.0
+generation:15 maxFitness:10.0
+generation:16 maxFitness:10.0
+generation:17 maxFitness:10.0
+generation:18 maxFitness:10.0
+generation:19 maxFitness:10.0
+generation:20 maxFitness:10.0
+generation:21 maxFitness:10.0
+generation:22 maxFitness:10.0
+generation:23 maxFitness:10.0
+generation:24 maxFitness:10.0
+generation:25 maxFitness:10.0
+generation:26 maxFitness:10.0
+generation:27 maxFitness:10.0
+generation:28 maxFitness:10.0
+generation:29 maxFitness:10.0
+generation:30 maxFitness:10.0
+generation:31 maxFitness:10.0
+generation:32 maxFitness:10.0
+generation:33 maxFitness:10.0
+generation:34 maxFitness:10.0
+generation:35 maxFitness:10.0
+generation:36 maxFitness:10.0
+generation:37 maxFitness:10.0
+generation:38 maxFitness:10.0
+generation:39 maxFitness:10.0
+generation:40 maxFitness:10.0
+generation:41 maxFitness:10.0
+generation:42 maxFitness:10.0
+generation:43 maxFitness:10.0
+generation:44 maxFitness:10.0
+generation:45 maxFitness:10.0
+generation:46 maxFitness:10.0
+generation:47 maxFitness:10.0
+generation:48 maxFitness:10.0
+generation:49 maxFitness:10.0
+generation:50 maxFitness:10.0
+generation:51 maxFitness:10.0
+generation:52 maxFitness:10.0
+generation:53 maxFitness:10.0
+generation:54 maxFitness:10.0
+generation:55 maxFitness:10.0
+generation:56 maxFitness:10.0
+generation:57 maxFitness:10.0
+generation:58 maxFitness:10.0
+generation:59 maxFitness:10.0
+generation:60 maxFitness:10.0
+generation:61 maxFitness:10.0
+generation:62 maxFitness:10.0
+generation:63 maxFitness:10.0
+generation:64 maxFitness:10.0
+generation:65 maxFitness:10.0
+generation:66 maxFitness:10.0
+generation:67 maxFitness:10.0
+generation:68 maxFitness:10.0
+generation:69 maxFitness:10.0
+generation:70 maxFitness:10.0
+generation:71 maxFitness:10.0
+generation:72 maxFitness:10.0
+generation:73 maxFitness:10.0
+generation:74 maxFitness:10.0
+generation:75 maxFitness:10.0
+generation:76 maxFitness:10.0
+generation:77 maxFitness:10.0
+generation:78 maxFitness:10.0
+generation:79 maxFitness:10.0
+generation:80 maxFitness:10.0
+generation:81 maxFitness:10.0
+generation:82 maxFitness:10.0
+generation:83 maxFitness:10.0
+generation:84 maxFitness:10.0
+generation:85 maxFitness:10.0
+generation:86 maxFitness:10.0
+generation:87 maxFitness:10.0
+generation:88 maxFitness:10.0
+generation:89 maxFitness:10.0
+generation:90 maxFitness:10.0
+generation:91 maxFitness:10.0
+generation:92 maxFitness:10.0
+generation:93 maxFitness:10.0
+generation:94 maxFitness:10.0
+generation:95 maxFitness:10.0
+generation:96 maxFitness:10.0
+generation:97 maxFitness:10.0
+generation:98 maxFitness:10.0
+generation:99 maxFitness:10.0
+generation:100 maxFitness:10.0
+----------end----------
+Thu May 06 13:14:42 JST 2021
+Total fitness evaluation:10000
+----elite----
+elite fitness: 10.0
+1111111111
+-------------
